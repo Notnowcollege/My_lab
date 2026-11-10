@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 using System;
+=======
+﻿using System;
+>>>>>>> f52ab8e (Лабораторна 6: старт проєкту, масиви записів)
 
 class Program
 {
